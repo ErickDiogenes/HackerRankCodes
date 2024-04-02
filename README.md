@@ -9,7 +9,7 @@ Meu objetivo principal ao resolver esses problemas não é apenas encontrar a so
 ## Estrutura do Repositório
 
 - Cada problema está localizado em uma classe Java com o respectivo dia enumerado dentro do package javaCodes, contendo o código-fonte da solução e, se necessário, quaisquer arquivos auxiliares.
-- Cada solução é implementada em na linguagem Java, pois é o meu foco atual.
+- Cada solução é implementada na linguagem Java, pois é o meu foco atual.
 
 ## Sobre Mim
 
