@@ -4,13 +4,12 @@ Este repositório contém as minhas soluções para problemas do HackerRank, ond
 
 ## Objetivo
 
-Meu objetivo principal ao resolver esses problemas não é apenas encontrar a solução correta, mas também praticar o desenvolvimento de código limpo e legível. Estou comprometido em melhorar minhas habilidades de programação, especialmente em termos de manutenção de código e legibilidade.
+Meu objetivo principal ao resolver esses problemas não é apenas encontrar a solução correta, mas também praticar o desenvolvimento de código limpo e legível. Estou comprometido em melhorar minhas habilidades de programação, especialmente em termos de manutenção de código e legibilidade. E também manter a constância o máximo possível para que o progresso seja de forma linear e não com altos e baixos, pois assim vou provar não só a mim mas aos possiveis recrutadores que uma das minhas qualidades é a perseverança e consistência.
 
 ## Estrutura do Repositório
 
-- Cada problema está localizado em seu próprio diretório, contendo o código-fonte da solução e, se necessário, quaisquer arquivos auxiliares.
-- O nome do diretório reflete o título ou a descrição do problema no HackerRank.
-- Cada solução é implementada em uma linguagem específica, geralmente Java, Python ou JavaScript, dependendo das minhas preferências pessoais ou dos requisitos do problema.
+- Cada problema está localizado em uma classe Java com o respectivo dia enumerado dentro do package javaCodes, contendo o código-fonte da solução e, se necessário, quaisquer arquivos auxiliares.
+- Cada solução é implementada em na linguagem Java, pois é o meu foco atual.
 
 ## Sobre Mim
 
