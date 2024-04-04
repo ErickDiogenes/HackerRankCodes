@@ -23,7 +23,7 @@ Output Format:
 
 Print Weird if the number is weird; otherwise, print Not Weird.
 
-
+This is the third day codding
 */
 
 package javaCodes;

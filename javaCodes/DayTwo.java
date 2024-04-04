@@ -24,7 +24,9 @@
         Input Format
 
         There are 3 lines of input, and each line contains a single integer.
-        This is the second day*/
+        This is the second day codding
+
+ */
 
 
 
