@@ -1,3 +1,5 @@
+# Projeto Pausado temporáriamente
+
 # Soluções de Código - HackerRank
 
 Este repositório contém as minhas soluções para problemas do HackerRank, onde estou praticando o desenvolvimento de código e aplicando os princípios de Clean Code.
